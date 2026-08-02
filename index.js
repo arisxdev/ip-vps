@@ -6,7 +6,7 @@ const { Sticker, StickerTypes } = require('wa-sticker-formatter');
 const sharp = require('sharp');
 
 // === KONFIGURASI ===
-const VT_API_KEY = '948d0f4abe4ee0d8905ea9a8f7d5b7ab430f3d06f5e2a0566ccd64f024b562ad';
+const VT_API_KEY = 'isi api key';
 const PACK_NAME = 'arisdev -- +601129601577';
 const AUTHOR_NAME = 'arisxdev.my.id';
 const MENU_IMAGE_URL = 'https://cdn.phototourl.com/free/2026-07-31-91392646-4250-4b56-8e3b-237dc0c692b6.jpg';
